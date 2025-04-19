@@ -1,4 +1,5 @@
 import clsx from 'clsx';
+import { inter } from '@/app/ui/fonts';
 
 interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
   children: React.ReactNode;
